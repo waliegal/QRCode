@@ -1,0 +1,39 @@
+body {
+    box-sizing: border-box;
+    margin: auto 0;
+    background-color: hsl(220, 15%, 55%);
+}
+
+.card {
+    position: relative;
+    height: 400px;
+    width: 250px;
+    margin: 0 auto;
+    top: 104px;
+    background-color: white;
+    border-radius: 15px;
+}
+
+.qrcode{
+    height: 200px;
+    width: 230px;
+    margin: 0 auto;
+    position: relative;
+    top: 10px;
+}
+
+.text {
+    height: 140px;
+    width: 230px;
+    border: solid 1px black;
+    margin: 0 auto;
+    position: relative;
+    top: 10px;
+    margin-top: 10px;
+}
+
+img {
+    height: 200px;
+    width: 230px;
+    border-radius: 15px;
+}
